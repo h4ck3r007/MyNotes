@@ -1,0 +1,5 @@
+Objective: Objective of this document to find out how we can write the HTML code to make it print ready.
+
+
+References:
+#1 : [Smashing Magazine] http://www.smashingmagazine.com/2015/01/designing-for-print-with-css/

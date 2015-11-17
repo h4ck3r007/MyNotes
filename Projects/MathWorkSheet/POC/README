@@ -1,0 +1,7 @@
+How to create a book
+
+1. Download "Prince" from http://princexml.com/
+2. Create a style sheet defining the page rules.
+3. Create the book in HTML 
+4. Run the command to convert HTML into PDF
+	prince -s <css> <html> <pdf>

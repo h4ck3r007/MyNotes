@@ -1,0 +1,15 @@
+@page{
+	size: A4;
+}
+
+@page :first{
+	@top-center{content: "My Book"}
+}
+
+@page :blank{
+	@top-center{content: "This page is left blank intentionally"}
+}
+
+h1 {
+  page-break-before: always;
+}
